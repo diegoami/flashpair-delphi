@@ -1,0 +1,91 @@
+Copyright
+---------
+This product in whole or in part, including all files, data, and documentation,
+from here on referred to as "Product" is Copyright © 1997-1998 Theodor
+Kleynhans, from here on referred to as "Author", all rights reserved, and is
+protected by the copyright laws of the Republic of South Africa, international
+treaties and all other applicable national or international laws.
+
+Disclaimer
+----------
+This product and the accompanying files and documentation are distributes/sold
+"as is" and without warranties as to performance or merchantability or any other
+warranties whether expressed or implied. The user and/or licensee assume the
+entire risk as to the use of this product. The Author does not assume liability
+for the use of this product beyond the original purchase price (if applicable).
+In no event will the Author be liable for additional direct or indirect damages
+including any lost profits, lost savings, or other incidental or consequential
+damages arising from any defects, or the use or inability to use this product,
+even if the Author has been advised of the possibility of such damages.
+
+Restrictions
+------------
+You may not use, copy, modify, translate, or transfer the product or any copy
+except as expressly defined in this agreement. You may not remove or modify any
+copyright notice. This license agreement may not be modified or supplemented
+without the written consent of the Author.
+
+Operating license
+-----------------
+You have the non-exclusive right to use the product only by a single person, on
+a single computer at a time. In group situations, where multiple persons will
+use the Product, you must purchase an individual license for each member of the
+group. A person is considered using the Product if he or she has any components
+of the Product installed on his or her component palette. Use over a network is
+permitted provided that only individuals possessing a license use the Product.
+This means many individuals can use a single copy of the Product, residing on a
+server only if each and every user has a license. It is a breach of this
+agreement to use a networked copy of the Product if you do not possess a valid
+license.
+
+Distribution license
+----------------------
+Under no circumstances may the component source files (GIFImage.pas and
+TimerEx.pas), from here on referred to as "SOURCE", be redistributed.
+
+The Product can be redistributed freely, by ftp archives, web sites, bulletin
+boards, computer magazine cover disks and CD-ROMS, shareware and public domain
+CD-ROMs and archives, etc., ON THE CONDITION THAT THIS IS A NON-PURCHASED
+(SOURCE-FREE) VERSION AND ALL THE FILES IN THIS PACKAGE ARE INCLUDED UNMODIFIED
+IN THE DISTRIBUTION, INCLUDING THIS DOCUMENTATION.
+
+You may not use the Product in any other product which is not classified as
+"FREEWARE"; ie. you may not charge anything for a product which contains
+the Product or relies on the Product for its functionality. If you are unclear
+whether your product qualifies, contact the author at the address given at the
+end of this file for clarification.
+
+You may not use the Product in any other product that directly or indirectly
+competes with the Product. Specifically, you may not include this Product as
+part of any code library, as source code or in compiled form. You may not
+provide any means by which your users could create, modify, or incorporate any
+part of this Product into their own products.
+
+Back-up and transfer
+(Only applicable to Purchased Product, ie. containing SOURCE)
+-------------------------------------------------------------
+You may make one copy of the Product solely for back-up purposes. You may
+transfer the Product to someone else only if that person agrees with the terms
+and conditions detailed in this agreement. If you transfer the product you must
+destroy your copy of it, including all documentation and any back-up copy you
+may have.
+
+Terms
+-----
+This license is effective until terminated. You may terminate it by destroying
+the complete product and any backup copy. This license will also terminate if
+you fail to comply with any terms or conditions of this agreement. You agree
+upon such termination to destroy all copies of the Product.
+
+Rights and restrictions
+-----------------------
+All other rights and restrictions not specifically granted in this license are
+reserved worldwide by the Author.
+
+Contact Information
+-----------------------
+Author: Theodor Kleynhans
+Web   : http://www.sulako.com/
+E-Mail: theodor@sulako.com
+Tel   : +27-(0)21-92-7221
+Fax   : +27-(0)21-930-8251

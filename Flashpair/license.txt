@@ -1,0 +1,63 @@
+================================================================================
+                         SOFTWARE LICENSE AGREEMENT
+
+LICENSE:
+* This Limited Use Software License Agreement (the "Agreement") is a legal 
+  agreement between you, the end-user ("Licensee"), and the author Diego Amicabile
+  ("author").  By using this software or storing this program ("Flashpair")
+  on a computer hard drive (or other media), you are agreeing to be bound by 
+  the terms of this Agreement.  
+  If you do not agree to the terms of this Agreement, and you have registered 
+  this software, promptly return the software and the accompanying items 
+  (including any written materials), along with your receipt for a full refund; 
+  or delete the software from all storage media. 
+
+* You may install this program to test and evaluate for 40 times; 
+  after that time you must either register this program or delete it from 
+  your computer hard drive.
+
+* This software may be distributed freely on online services, bulletin boards,
+  or other electronic media as long as the files are distributed in their 
+  entirety.  This software may not be distributed on CD-ROM, disk, or other 
+  physical media for a fee without the permission of the auhor.
+
+* You may not alter this software in any way, including changing or removing
+  any messages or windows.  
+
+* You may not decompile, reverse engineer, disassemble or otherwise reduce 
+  this software to a human perceivable form.  You may not modify, rent or 
+  resell for profit this software, or create derivative works based upon 
+  this software.  You may not publicize or distribute any registration code 
+  algorithms, information, or registration codes used by this software without 
+  permission of the author.
+
+COPYRIGHT:
+* Flashpair is Copyright from Diego Amicabile.  You must treat the Software like 
+  any other copyrighted material.
+
+================================================================================
+  THE SOFTWARE IS PROVIDED TO LICENSEE "AS IS". ALL EXPRESS 
+  OR IMPLIED CONDITIONS, REPRESENTATIONS, AND WARRANTIES, 
+  INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, 
+  SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, OR 
+  NON-INFRINGEMENT, ARE DISCLAIMED, EXCEPT TO THE EXTENT THAT 
+  SUCH DISCLAIMERS ARE HELD TO BE LEGALLY INVALID.
+
+  THIS SOFTWARE IS NOT FAULT TOLERANT AND SHOULD NOT BE USED IN
+  ANY ENVIRONMENT WHICH REQUIRES THIS, SUCH AS ON-LINE CONTROL OF AIRCRAFT.
+
+  TO THE EXTENT NOT PROHIBITED BY APPLICABLE LAW, THE AUTHOR'S 
+  AGGREGATE LIABILITY TO LICENSEE OR TO ANY THIRD PARTY FOR 
+  CLAIMS RELATING TO THIS AGREEMENT, WHETHER FOR BREACH OR 
+  IN TORT, WILL BE LIMITED TO THE FEES PAID BY LICENSEE FOR 
+  SOFTWARE WHICH IS THE SUBJECT MATTER OF THE CLAIMS. IN NO 
+  EVENT WILL THE AUTHOR BE LIABLE FOR ANY INDIRECT, PUNITIVE, SPECIAL, 
+  INCIDENTAL OR CONSEQUENTIAL DAMAGE IN CONNECTION WITH OR 
+  ARISING OUT OF THIS AGREEMENT (INCLUDING LOSS OF BUSINESS, 
+  REVENUE, PROFITS, USE, DATA OR OTHER ECONOMIC ADVANTAGE), 
+  HOWEVER IT ARISES, WHETHER FOR BREACH OR IN TORT, EVEN IF 
+  AUTHOR HAS BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH 
+  DAMAGE. LIABILITY FOR DAMAGES WILL BE LIMITED AND EXCLUDED, 
+  EVEN IF ANY EXCLUSIVE REMEDY PROVIDED FOR IN THIS AGREEMENT 
+  FAILS OF ITS ESSENTIAL PURPOSE.
+================================================================================

@@ -1,0 +1,59 @@
+Follow the steps outlined below for your particular development environment:
+
+For evaluation or DCU versions, replace:
+  "GIFImage" with "GIFImage.dcu" and "TimerEx" with "TimerEx.dcu"
+
+For source (purchased) versions, replace:
+  "GIFImage" with "GIFImage.pas" and "TimerEx" with "TimerEx.pas"
+
+
+1) Locate the required files
+----------------------------
+You'll need the following files for installation:
+  GIFImage.dcu (or GIFImage.pas if you purchased the source)
+  GIFImage.dcr
+  TimerEx.dcu  (or TimerEx.pas if you purchased the source)
+  TimerEx.dcr
+  Defines.inc  (only if you purchased the source)
+
+You can find GIFImage.dcu and TimerEx.dcu here:
+  C++Builder 1: Bin\Builder1
+  Delphi 1    : Bin\Delphi1
+  Delphi 2    : Bin\Delphi2
+  Delphi 3    : Bin\Delphi3
+  Delphi 4    : Bin\Delphi4
+
+You can find GIFImage.dcr and TimerEx.dcr here:
+  C++Builder 1: Bin\Glyph32
+  Delphi 1    : Bin\Glyph16
+  Delphi 2    : Bin\Glyph32
+  Delphi 3    : Bin\Glyph32
+  Delphi 4    : Bin\Glyph32
+
+
+2) Copy the files to a folder of your choice
+--------------------------------------------
+Copy them wherever you store your components, let's say it's:
+  C:\Source\Components
+
+3) Add the folder to your library search path
+---------------------------------------------
+This only really necessary for Delphi 1 and Delphi 3. The other compilers do it
+automatically (although it can't hurt to make sure).
+
+
+4) Install the components
+-------------------------
+
+  Delphi 1, Delphi 2, C++Builder 1:
+  ---------------------------------
+  Register the components by add GIFImage and TimeEx to the component library.
+  The
+  component library will now be rebuilt, and should include TGIFImage and
+  TTimerEx.
+
+  Delphi 3, Delphi 4:
+  -------------------
+  Create a new package and add GIFImage and TimerEx. Compile and Install the
+  package. TGIFImage and TTimerEx should now be included on your component
+  palette.

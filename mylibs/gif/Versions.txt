@@ -1,0 +1,153 @@
+Version History:
+----------------
+
+2.9: Current Release
+--------------------
+* Release date: 16 July 1998
+* Now supports:
+  - Delphi 1 (at last!)
+  - Delphi 2
+  - Delphi 3
+  - Delphi 4
+  - C++Builder 1
+  - C++Builder 3 (unconfirmed, but there shouldn't be a problem).
+* Palette handling in 8-bit screen mode even better.
+* New painting algorithm produces perfect results, even at design-time. :)
+* Changed some of the methods to protected-virtual to fascilitate descendant classes.
+* Added the following properties:
+  - Color
+  - DoubleBuffered
+  - FirstImageOnly
+  - Opaque
+  - Version
+* Removed the following properties:
+  - FileName
+* Added the following global variables:
+  - LastWriteError
+  - OnWriteProgress
+
+2.8: Eighth Release
+--------------------
+* Release date: 4 February 1998
+* Interim release, fixes some small bugs.
+
+2.7: Seventh Release
+--------------------
+* Release date: 10 December 1997
+* Interim release, mostly fixes bugs.
+* Memory leak in SaveToXXX fixed.
+* Palette handling in 8-bit screen mode slightly better (still not perfect)
+* Added the ability to include the image in the project automatically (like
+  Delphi's TImage) - no more messing around with resource files!!!
+* Moved all the GIF export routines (SaveToFile, SaveToStream) out of the
+  TGIFImage class.
+* Added simplified export routines (SaveToFileSingle, SaveToStreamSingle) for
+  easily exporting a bitmap to GIF format.
+* Added the following properties:
+  - StretchRatio
+  - Threaded
+  - ThreadPriority
+* Added the following methods:
+  - Clear
+* Added the following events:
+  - OnProgress
+  - OnWrapAnimation
+
+2.6: Sixth Release
+--------------------
+* Release date: 23 April 1997
+* Removed the Timer which runs in a seperate thread and replaced it with the normal TTimer.
+  This was because Delphi did not free the thread when the TThread's Free method was called.
+  I'll include it again once I've fixed the problem.
+
+2.5: Fifth Release
+--------------------
+* Release date: 20 April 1997
+* Renamed all names containing 'Image' to 'Frame' as this seems a bit more clear. Sorry to the
+  existing users who will have to change some source code.
+* Added the following properties:
+  - Empty
+  - ImageWidth
+  - ImageHeight
+  - IsInterlaced
+  - MouseOnTransparent
+  - NumIterations
+  - CurrentFrame
+  - Speed
+* Added the following methods:
+  - LoadInfoFromFile
+  - LoadInfoFromStream
+* Added the following events:
+  - OnChanging
+  - OnChange
+* Added a component editor which gives the following options while in the IDE:
+  - Load...
+  - Clear
+  - Refresh
+  You can now double-click on the component to get a browse dialog for selecting a file.
+* Removed the following properties:
+  - Color
+  - SeeThrough
+* Removed the following methods:
+  - UpdateBackground
+* Fixed the bugs relating to the painting of transparent GIF's.
+* Fixed the bug which occured when interlaced GIF's were decompressed to more than 64Kb.
+* Fixed some minor compression bugs.
+* Changed the Timer which controls animation to one which runs in a seperate thread. This
+  results in much smoother animation.
+
+2.1: Fourth Release
+--------------------
+* Release date: 25 February 1997
+* Added the following property:
+  - LastError
+* Added the following method:
+  - UpdateBackground
+* Added the siUseGlobalColorTable variable which can increase compression for animations
+* Fixed a small bug that would produce an unreadable file if you saved an animation with an
+  image that uses an amount of colors which is not a power of 2
+
+2.0: Third Release
+---------------------
+* Release date: 18 February 1997
+* Added the ability to compress Bitmap to GIF format
+* Added the following methods:
+  - GetImageInfo
+  - LoadFromFile
+  - SaveToFile
+  - LoadFromStream
+  - SaveToStream
+  - LoadFromResourceName
+  - LoadFromResourceID
+* Added a browse dialog for the FileName property
+* Added a frame when in Design state (in the IDE)
+
+1.1: Second Release
+-------------------
+* Release date: 26 January 1997
+* Added the following properties:
+  - NumImages
+  - Visible
+* Fixed some minor bugs (undocumented features?). The background of transparent images is now
+  updated when SeeThrough is set and either of the following events occur:
+  - The component is resized or moved
+  - The Center property is toggled
+  - The Tile property is toggled
+
+1.0: Initial Release
+--------------------
+* Release date: 20 January 1997
+* Contained the following properties:
+  - Animate : Boolean
+  - AutoSize : Boolean
+  - Bitmap : TBitmap (ReadOnly)
+  - BitsPerPixel : Integer (ReadOnly)
+  - Center : Boolean
+  - Color : TColor
+  - FileName : String
+  - IsAnimated  : Boolean (ReadOnly)
+  - IsTransparent  : Boolean (ReadOnly)
+  - Loop : Boolean
+  - SeeThrough : Boolean
+  - Stretch : Boolean
+  - Tile : Boolean
