@@ -2,7 +2,7 @@
 
 It is the year 2017 and I went back to this "game" that I made in 2000-2001.
 
-It turned out that I miss some files, so I patched it up. The file containing the executable is here : http://clickit.pair.com/software/flashpair/flashpair11-patched.zip
+It turned out that I miss some files, so I patched it up. The file containing the executable is here : http://www.amicabile.com/software/flashpair/flashpair11-patched.zip
 
 The game runs (almost) flawlessly under Windows 7 and 8, no idea about 10. However, make sure you read this file.
 
